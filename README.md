@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack React Developer!!
 
-- 🔭 I'm currently working on cool stuff with my team at the JavaScript Mastery Pro Masterclass
+- 🔭 I'm currently working on cool stuff with my team at the JSM Pro Masterclass
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with others on some meaningful projects
 - 🥅 2023 Goals: Learn more about Next.js 13 & Artificial Intelligence
