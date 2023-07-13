@@ -49,4 +49,4 @@
 
 <a href="http://www.github.com/derekprieur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=derekprieur&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fsnlaight&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fderekprieur&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
