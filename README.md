@@ -20,7 +20,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/derekprieur/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/derekprieur_#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/derekprieur_#gh-dark-mode-only)                                       
+[![website](./img/twitter-dark.svg)](https://twitter.com/derekprieur_#gh-dark-mode-only)                                     
 
 ### Languages and Tools:
 
