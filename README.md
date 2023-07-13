@@ -41,6 +41,8 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
+<br />
+
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fderekprieur&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekprieur&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
