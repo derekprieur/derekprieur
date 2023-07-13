@@ -10,17 +10,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.derekprieur.dev/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.derekprieur.dev/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/derekprieur/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/derekprieur/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/derekprieur/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/derekprieur/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/derekprieur_/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/derekprieur_/#gh-dark-mode-only)
+<a href="https://www.derekprieur.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.derekprieur.dev/" height="30" width="40" /></a>
+<a href="https://twitter.com/derekprieur_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="derekprieur_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/derekprieur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/derekprieur/" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
