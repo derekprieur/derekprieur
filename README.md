@@ -10,17 +10,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.derekprieur.dev/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.derekprieur.dev/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.derekprieur.dev/)
+[![website](./img/globe-dark.svg)](https://www.derekprieur.dev/)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/derekprieur/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/derekprieur/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/derekprieur/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/derekprieur/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/derekprieur/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/derekprieur/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/derekprieur/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/derekprieur/)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/derekprieur_#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/derekprieur_#gh-dark-mode-only)                                     
+[![website](./img/twitter-light.svg)](https://twitter.com/derekprieur_)
+[![website](./img/twitter-dark.svg)](https://twitter.com/derekprieur_)                                     
 
 ### Languages and Tools:
 
