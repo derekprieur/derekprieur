@@ -18,7 +18,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/derekprieur/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/derekprieur/#gh-dark-mode-only)     
-&nbsp;&nbsp;                                   
+&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/derekprieur_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/derekprieur_#gh-dark-mode-only)                                       
 
