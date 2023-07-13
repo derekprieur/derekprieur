@@ -50,3 +50,6 @@
 <a href="http://www.github.com/derekprieur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=derekprieur&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fderekprieur&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekprieur&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
+![Derek's github stats](https://github-readme-stats.vercel.app/api/?username=derekprieur&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
