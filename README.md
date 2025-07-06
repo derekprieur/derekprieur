@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on my plant-based nutrition application - Plant Pulse
 - 👯 I’m looking to collaborate with others on some meaningful projects
-- 🥅 2024 Goals: Learn more about Next.js, React Native, & AI
+- 🥅 2025 Goals: Learn more about Next.js, React Native, & AI
 - ⚡ Fun fact: I can solve a Rubik's Cube in less than 1 minute
 
 ### Connect with me:
